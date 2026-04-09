@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": "01",
+    "modelo": "gsgs",
+    "tipo": "MILITAR",
+    "capacidade": 123,
+    "alcance": 324,
+    "pecas": [
+      {
+        "nome": "gs",
+        "tipo": "NACIONAL",
+        "fornecedor": "ge",
+        "status": "EM_TRANSPORTE"
+      }
+    ]
+  }
+]

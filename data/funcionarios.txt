@@ -1,0 +1,11 @@
+[
+  {
+    "id": "01",
+    "nome": "Katherine Mosselaar",
+    "telefone": "183934302",
+    "endereco": "fnfg",
+    "usuario": "kte",
+    "senha": "0170",
+    "nivelPermissao": "ENGENHEIRO"
+  }
+]
