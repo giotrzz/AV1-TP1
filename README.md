@@ -25,8 +25,7 @@ Você precisará ter o **Node.js** instalado em sua máquina.
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-
+   git clone https://github.com/giotrzz/AV1-TP1
 2. Entre na pasta do projeto:
     cd AV1-TP1
 
